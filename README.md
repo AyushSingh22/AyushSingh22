@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AyushSingh22
+- 👋 Hi, I’m Ayush
 - 👀 I’m interested in Deploying and developing things which add value to the tech world
 - 🌱 I’m currently learning Machine learning and AI
 - 💞️ I’m looking to collaborate on different ML projects
