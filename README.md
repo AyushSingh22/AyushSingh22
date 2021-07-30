@@ -1,4 +1,4 @@
-## Hola, I'm [Avinash Kumar!](http://www.coderavi.tech)👋
+## Hola, I'm [Ayush Raj!]👋
 I am a tech enthusiast 💻 who loves programming & exploring more about Artificial Intelligence!
 
 
