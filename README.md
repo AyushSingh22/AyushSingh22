@@ -15,7 +15,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <a href="https://stackoverflow.com/users/16567437/ayush-raj">
   <img align="left" alt="AyushSingh22's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
-<a href="https://www.instagram.com/coder_avi/">
+<a href="https://www.instagram.com/ayush_singh__22/">
   <img align="left" alt="AyushSingh22's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/coderavinash/">
@@ -24,7 +24,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <a href="https://www.youtube.com/channel/UCrsaXuRFNGTB8LYqwYFlICA">
   <img align="left" alt="AyushSingh22's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://www.hackerrank.com/Avi_Avinash">
+<a href="https://www.hackerrank.com/ayushraj22102001">
   <img align="left" alt="AyushSingh22's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br/>
@@ -33,16 +33,16 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 
 - 🔭 I’m currently working on my own venture will reveal.....
 - 🌱 I’m currently learning more about Artificial Intelligence & Algorithms.
-- 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/15208961/coderavi?tab=profile).
+- 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/16567437/ayush-raj).
 - 🤔 I’m looking for help with Shopondoor Deployment work.
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @Coder_Avi](https://twitter.com/Coder_Avi) , [Youtube - @coderavi](https://www.youtube.com/channel/UCrsaXuRFNGTB8LYqwYFlICA)
+- 📫 How to reach me: [Twitter - @Maket_techtalk](https://twitter.com/market_techtalk) , [Youtube - @Ayush Raj](https://www.youtube.com/channel/UCrsaXuRFNGTB8LYqwYFlICA)
 - 😄 Pronouns: He/His  
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.        
            
  
-[![Twitter: CoderAvi](https://img.shields.io/twitter/follow/Coder_Avi?style=social)](https://twitter.com/Coder_Avi)
-[![Linkedin: CoderAvi](https://img.shields.io/badge/-coderavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coder-avi/)](https://www.linkedin.com/in/coder-avi/)
+[![Twitter: CoderAvi](https://img.shields.io/twitter/follow/Market_techtalk?style=social)](https://twitter.com/Market_techtalk)
+[![Linkedin: CoderAvi](https://img.shields.io/badge/-AyushSingh22-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushrajtech/)](https://www.linkedin.com/in/coder-avi/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/coder_avi/) 
 [![GitHub CoderAvi](https://img.shields.io/github/followers/CoderAvi?label=follow&style=social)](https://github.com/CoderAvi)
 [![website](https://img.shields.io/badge/Portfolio-coderavi.tech-2648ff?style=flat-square&logo=google-chrome)](http://coderavi.tech/)
