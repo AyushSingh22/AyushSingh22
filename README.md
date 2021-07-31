@@ -1,18 +1,18 @@
-## Hola, I'm [Ayush Raj!]👋
+## Hola, I'm Ayush Raj!👋
 I am a tech enthusiast 💻 who loves programming & exploring more about Artificial Intelligence!
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AyushSingh22&label=Profile views&color=green&style=plastic" alt="AyushSingh22" /> </p>
-<a href="https://twitter.com/Coder_Avi">
-  <img align="left" alt="Coder_Avi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/market_techtalk">
+  <img align="left" alt="Ayush's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ayush-raj-736483193/">
+<a href="https://www.linkedin.com/in/ayushrajtech/">
   <img align="left" alt="AyushSingh22's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/AyushSingh22/">
   <img align="left" alt="AyushSingh22's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://stackoverflow.com/users/15208961/coderavi?tab=profile">
+<a href="https://stackoverflow.com/users/16567437/ayush-raj">
   <img align="left" alt="AyushSingh22's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 <a href="https://www.instagram.com/coder_avi/">
