@@ -1,4 +1,4 @@
-## Hola, I'm Ayush Raj!👋
+## Hola, I'm [Ayush Raj]!(https://ayushsingh22.github.io/portfolio/)👋
 I am a tech enthusiast 💻 who loves programming & exploring more about Artificial Intelligence!
 
 
