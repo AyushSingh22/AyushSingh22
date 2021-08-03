@@ -1,5 +1,5 @@
 ## Hola, I'm [Ayush Raj!](https://ayushsingh22.github.io/portfolio/)👋
-I am a tech enthusiast 💻 who loves programming & exploring more about Artificial Intelligence!
+I am a computer science undergraduate student, a tech enthusiast trying to serve the world
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AyushSingh22&label=Profile views&color=green&style=plastic" alt="AyushSingh22" /> </p>
