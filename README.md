@@ -45,7 +45,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 [![Linkedin: AyushSingh22](https://img.shields.io/badge/-AyushSingh22-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushrajtech/)](https://www.linkedin.com/in/coder-avi/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ayush_singh__22/) 
 [![GitHub AyushSingh22](https://img.shields.io/github/followers/AyushSingh22?label=follow&style=social)](https://github.com/AyushSingh22)
-[![website](https://img.shields.io/badge/Portfolio-coderavi.tech-2648ff?style=flat-square&logo=google-chrome)](https://ayushsingh22.github.io/portfolio/)
+[![website](https://img.shields.io/badge/Portfolio-Ayushraj.tech-2648ff?style=flat-square&logo=google-chrome)](https://ayushsingh22.github.io/portfolio/)
 
 **Languages and Tools:**  
 
@@ -70,10 +70,10 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 
   <b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b>macOS Big Sur 11.2.1</li>
-	    <li><b>Laptop: </b> Macbook Air 2019</li>
+  	    <li><b>OS:</b>Windows 10</li>
+	    <li><b>Laptop: </b> Asus vivobook</li>
   	    <li><b>Browser: </b> Safari & Chrome</li>
-	    <li><b>Code Editor:</b> VSCode ❤, Xcode</li>
+	    <li><b>Code Editor:</b> VSCode ❤, sublime Text</li>
             <li><b>Cleverly using macOS Terminal with node.js, python & git</li>
 		<li><b>Appetize.io for App Testing Purpose</li>
 	</ul>	
