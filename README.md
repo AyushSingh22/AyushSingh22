@@ -38,7 +38,7 @@ I am a computer science undergraduate student, a tech enthusiast trying to serve
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @Maket_techtalk](https://twitter.com/market_techtalk) , [Youtube - @Ayush Raj](https://www.youtube.com/channel/UCrsaXuRFNGTB8LYqwYFlICA)
 - 😄 Pronouns: He/His  
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.        
+- ⚡ Fun fact: Addicted to podcast with a coffee...
            
  
 [![Twitter: AyushSingh22](https://img.shields.io/twitter/follow/Market_techtalk?style=social)](https://twitter.com/Market_techtalk)
