@@ -34,8 +34,8 @@ I am a computer science undergraduate student, a tech enthusiast trying to serve
 - 🔭 I’m currently working on my own venture will reveal.....
 - 🌱 I’m currently learning more about Artificial Intelligence & Algorithms.
 - 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/16567437/ayush-raj).
-- 🤔 I’m looking for help with Shopondoor Deployment work.
-- 💬 Ask me about Flutter or any tech related stuff.
+- 🤔 I’m looking for help with Hands on projects work.
+- 💬 Ask me about ML, web or any tech related stuff.
 - 📫 How to reach me: [Twitter - @Maket_techtalk](https://twitter.com/market_techtalk) , [Youtube - @Ayush Raj](https://www.youtube.com/channel/UCrsaXuRFNGTB8LYqwYFlICA)
 - 😄 Pronouns: He/His  
 - ⚡ Fun fact: Addicted to podcast with a coffee...
