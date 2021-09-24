@@ -65,6 +65,7 @@ I am a computer science undergraduate student, a tech enthusiast trying to serve
 
 
 ![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=AyushSingh22&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
+![snake gif](https://github.com/AyushSingh22/AyushSingh22/blob/output/github-contribution-grid-snake.svg)
 
 
 
