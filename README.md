@@ -42,7 +42,7 @@ I am a computer science undergraduate student, a tech enthusiast trying to serve
            
  
 [![Twitter: AyushSingh22](https://img.shields.io/twitter/follow/Market_techtalk?style=social)](https://twitter.com/Market_techtalk)
-[![Linkedin: AyushSingh22](https://img.shields.io/badge/-AyushSingh22-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushrajtech/)](https://www.linkedin.com/in/coder-avi/)
+[![Linkedin: AyushSingh22](https://img.shields.io/badge/-AyushSingh22-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushrajtech/)](https://www.linkedin.com/in/ayushrajtech/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ayush_singh__22/) 
 [![GitHub AyushSingh22](https://img.shields.io/github/followers/AyushSingh22?label=follow&style=social)](https://github.com/AyushSingh22)
 [![website](https://img.shields.io/badge/Portfolio-Ayushraj.tech-2648ff?style=flat-square&logo=google-chrome)](https://ayushsingh22.github.io/portfolio/)
