@@ -39,7 +39,8 @@ I am a computer science undergraduate student, a tech enthusiast trying to serve
 - 📫 How to reach me: [Twitter - @Maket_techtalk](https://twitter.com/market_techtalk) , [Youtube - @Ayush Raj](https://www.youtube.com/channel/UCrsaXuRFNGTB8LYqwYFlICA)
 - 😄 Pronouns: He/His  
 - ⚡ Fun fact: Addicted to podcast with a coffee...
-           
+ <h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
+          
  
 [![Twitter: AyushSingh22](https://img.shields.io/twitter/follow/Market_techtalk?style=social)](https://twitter.com/Market_techtalk)
 [![Linkedin: AyushSingh22](https://img.shields.io/badge/-AyushSingh22-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushrajtech/)](https://www.linkedin.com/in/ayushrajtech/)
