@@ -1,9 +1,9 @@
-## Hola, I'm [Ayush Raj!](https://ayushsingh22.github.io/portfolio/)👋
+## Hola, I'm [Ayush Raj!](https://ayushsingh22.github.io/Portfolio/)👋
 I am a computer science undergraduate student, a tech enthusiast trying to serve the world
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AyushSingh22&label=Profile views&color=green&style=plastic" alt="AyushSingh22" /> </p>
-<a href="https://twitter.com/market_techtalk">
+<a href="https://twitter.com/ayusholic">
   <img align="left" alt="Ayush's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ayushrajtech/">
@@ -18,7 +18,7 @@ I am a computer science undergraduate student, a tech enthusiast trying to serve
 <a href="https://www.instagram.com/ayush_singh__22/">
   <img align="left" alt="AyushSingh22's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/coderavinash/">
+<a href="https://www.facebook.com//">
   <img align="left" alt="AyushSingh22's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCrsaXuRFNGTB8LYqwYFlICA">
