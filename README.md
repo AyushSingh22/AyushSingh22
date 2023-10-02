@@ -63,6 +63,7 @@ I am a computer science undergraduate student, a tech enthusiast trying to serve
 <img height="111em" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushSingh22&show_icons=true&hide_border=true&layout=compact&langs_count=6" />
 </a>
 
+![image](https://github.com/AyushSingh22/AyushSingh22/assets/63851629/12515d2b-7d8a-4162-a4eb-5a79a6819c74)
 
 <br>
 
@@ -79,9 +80,7 @@ I am a computer science undergraduate student, a tech enthusiast trying to serve
   	    <li><b>OS:</b>Windows 10</li>
 	    <li><b>Laptop: </b> Asus vivobook</li>
   	    <li><b>Browser: </b> Safari & Chrome</li>
-	    <li><b>Code Editor:</b> VSCode ❤, sublime Text</li>
-            <li><b>Cleverly using macOS Terminal with node.js, python & git</li>
-		<li><b>Appetize.io for App Testing Purpose</li>
+	    <li><b>Code Editor:</b> VSCode ❤ IntelliJ IDEA ❤ sublime Text</li>
 	</ul>	
 
 <div align="center">
